@@ -1,9 +1,14 @@
 D3Up.com-Lang
 =============
 
-The Language Files used for D3Up.com
+This GitHub repository contains the Language Files used for D3Up.com.
 
-Want to help translate the site?
+Want to help translate D3Up.com into more languages?
+---
+
+Then you're in the right place. This repository contains all of the language files used on the website and anyone can contribute to it's modification. I will be updating this documentation to clarify the process as I find better ways to explain it. 
+
+Getting Started
 ---
 
 If you're not familiar with Github and Pull Requests, here's a basic step by step guide on how you can contribute!
